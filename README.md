@@ -1,4 +1,6 @@
 
+
+
 <p><img align="right" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png" width="100" /></a></p>
 <p><img align="right" src="https://raw.githubusercontent.com/abdalla-am/Loan-prediction-project/master/readme%20img/icon.png" width="100" /></a></p>
 <div align=left>
@@ -54,3 +56,6 @@ Loan_Status - Loan approved (Y/N)
 </h3>
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
+<p align ="middle"><img align ="middle" src="https://github.com/abdalla-am/Loan-prediction-project/blob/master/ai.png"/></p>
