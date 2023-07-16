@@ -6,7 +6,7 @@
  Loan prediction project
 </h1>
   <h3>
-    This repo aim to provide a code that predicts if the user can take a loan or not from the given features .
+    This repo aims to provide a code that predicts if the user can take a loan or not from the given features .
   </h3>
  <h5>
     "Artifitial intillegence" course at FCIS - ASU 
