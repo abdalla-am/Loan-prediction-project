@@ -1,6 +1,6 @@
 
-<p><img align="right" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png" width="80" /></a></p>
-<p><img align="right" src="" width="100" /></a></p>
+<p><img align="right" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png" width="100" /></a></p>
+<p><img align="right" src="https://raw.githubusercontent.com/abdalla-am/Loan-prediction-project/master/readme%20img/icon.png" width="100" /></a></p>
 <div align=left>
 <h1>
  Loan prediction project
