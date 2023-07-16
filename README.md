@@ -1,6 +1,6 @@
 
 <p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="100" /></a></p>
-<p><img align="right" src="https://png.pngtree.com/element_our/png/20181114/loan-icon-png_239807.jpg" width="80" /></a></p>
+<p><img align="right" src="https://raw.githubusercontent.com/abdalla-am/Loan-prediction-project/master/Photos/icon.png " width="100" /></a></p>
 <div align=left>
 <h1>
   Data Structures Overview & implementation 
